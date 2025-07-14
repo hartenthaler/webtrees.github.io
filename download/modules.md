@@ -109,7 +109,7 @@ A custom module for advanced GEDCOM import, export ,and filter operations. A set
 
 ----------
 
-### Extended Family - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/hh_extended_family)
+### Extended Family - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/hh_extended_family)
 
 This module creates an additional tab in the Individual view which lists the members of the extended family of that person (cousins, uncles, aunts, ...).
 
@@ -188,13 +188,13 @@ Display all the photos in a folder.
 
 ----------
 
-### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
+### GermanChancellorsAndPresidents - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-chancellors-and-presidents)
 
 Provides historical facts (in German language) - Chancellors and Presidents of Germany (since 1949).
 
 ----------
 
-### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.1` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
+### GermanWarsAndBattlesWorldwide - by Hartenthaler - `2.0` - `2.2` - [website](https://github.com/hartenthaler/german-wars-and-battles-worldwide)
 
 Provides historical facts (in German language) - Wars and Battles Worldwide (since 900).
 
